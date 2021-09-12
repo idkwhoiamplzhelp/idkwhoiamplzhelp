@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @idkwhoiamplzhelp
+- 👀 I’m interested in html,js,java
+- 🌱 I’m currently learning js-classes
